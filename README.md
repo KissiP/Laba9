@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/96527268/147209757-cafc3893-a8b5-4d62-9b34-0d6162f54d93.png)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
